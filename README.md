@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on [my thesis to solve Blind Source Separation](https://github.com/theadamsabra/Audio-Source-Separation-Undergraduate-Thesis)
 - 🌱 I’m currently learning [about Convolutional Neural Networks from Stanford](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) for free.
-- 💼 I'm currently searching for a full time position after graduation (June 2021.)
+- 💼 I'm currently searching for a full time position after graduation.
 
 My goal is to use the skills and tools in Machine Learning and Deep Learning to pave my own path in audio research.
