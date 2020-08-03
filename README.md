@@ -1,5 +1,5 @@
 ### Hi! My name is Adam Sabra and I am an undergraduate senior at the University of California, Davis.
-![](spec.png)
+![](theadamsabra/spec.png)
 ### My major is in Statistics with a track focus in Machine Learning.
 
 
